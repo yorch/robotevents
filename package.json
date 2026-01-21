@@ -23,10 +23,6 @@
   "dependencies": {
     "openapi-fetch": "^0.11.1"
   },
-  "directories": {
-    "bin": "./out",
-    "lib": "./src"
-  },
   "devDependencies": {
     "@types/cookie": "^0.4.0",
     "@types/set-cookie-parser": "^0.0.6",
